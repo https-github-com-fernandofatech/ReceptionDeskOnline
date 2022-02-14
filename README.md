@@ -1,3 +1,5 @@
+![ReceptionDeskOnline](https://user-images.githubusercontent.com/39699305/153957299-8496d3a8-97d4-4100-a986-53e43f9a491d.png)
+
 # Java Web project using Maven repository
 
 ###### Make your reception area smart!
