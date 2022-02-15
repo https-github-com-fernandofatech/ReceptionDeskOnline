@@ -2,6 +2,13 @@
 
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/https-github-com-fernandofatech/ReceptionDeskOnline)
 
+![Last Commit](https://img.shields.io/github/last-commit/https-github-com-fernandofatech/ReceptionDeskOnline?color=%23abd100&style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/https-github-com-fernandofatech/ReceptionDeskOnline?color=%23ff47b6&style=for-the-badge)
+![Open Issues](https://img.shields.io/github/issues-raw/https-github-com-fernandofatech/ReceptionDeskOnline?color=%239e6eff&style=for-the-badge)
+![Pull Requests](https://img.shields.io/github/issues-pr-raw/https-github-com-fernandofatech/ReceptionDeskOnline?color=%2302b09f&style=for-the-badge)
+
+
+
 # Java Web project using Maven repository
 
 ###### Make your reception area smart!
